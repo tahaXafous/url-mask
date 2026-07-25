@@ -1,2 +1,2 @@
 url masking tool jsut run python urlmask.py
-see the photo
+see the  jgp photo
